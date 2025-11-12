@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya  
 
-<!--
-**Aditya123CSE/Aditya123CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎥 **Freelance Video Editor | 💻 Developer | 🧠 Lifelong Learner**
 
-Here are some ideas to get you started:
+Welcome to my GitHub!  
+Here you’ll find my projects in **Web Development**, **JavaScript**, and **Python** — along with my creative experiments as a video editor and soon there will be some game development projects as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+- 🎨 [Portfolio Website](https://aditya123cse.github.io/portfolio-website/)
+- 🧮 [Calculator App](https://aditya123cse.github.io/calculator-js/)
+- 📝 [To-Do List App](https://aditya123cse.github.io/todo-list-app/)
+- 🎮 [Tic-Tac-Toe Game](https://aditya123cse.github.io/tic-tac-toe-ai/)
+
+---
+
+## 🧩 About Me
+- 🧠 Always exploring new tech and ideas  
+- 🎬 Turning creativity into code and videos  
+- 💡 Building small projects that teach big lessons  
+
+---
+
+## 📫 Connect With Me
+- 🌐 **Portfolio:** [aditya123cse.github.io/portfolio-website](https://aditya123cse.github.io/portfolio-website/)  
+- 📧 **Email:** adihunny123@gmail.com
