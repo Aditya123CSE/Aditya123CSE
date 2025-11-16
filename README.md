@@ -13,7 +13,7 @@ Here you’ll find my projects in **Web Development**, **JavaScript**, and **Pyt
 - 🧮 [NeoCalc (Calculator App)](https://aditya123cse.github.io/neocalc-js/)
 - 📝 [FocusFlow (To-Do List App)](https://aditya123cse.github.io/focusflow-js/)
 - 🎮 [TicTacArena (AI Tic-Tac-Toe Game)](https://aditya123cse.github.io/tictacarena-ai/)
-
+- 🌞 [Solar System](https://aditya123cse.github.io/Solar-System/)
 
 ---
 
