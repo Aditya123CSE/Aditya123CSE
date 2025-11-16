@@ -14,7 +14,7 @@ Here you’ll find my projects in **Web Development**, **JavaScript**, and **Pyt
 - 📝 [FocusFlow (To-Do List App)](https://aditya123cse.github.io/focusflow-js/)
 - 🎮 [TicTacArena (AI Tic-Tac-Toe Game)](https://aditya123cse.github.io/tictacarena-ai/)
 - 🌞 [Solar System](https://aditya123cse.github.io/Solar-System/)
-- 🗿  [Flying Modi](https://github.com/Aditya123CSE/Flying-Modi/releases/download/v1.1/FlyingModiV2.apk/)
+- 🗿   [Flying Modi](https://github.com/Aditya123CSE/Flying-Modi/releases/download/v1.1/FlyingModiV2.apk/)
 
 ---
 
